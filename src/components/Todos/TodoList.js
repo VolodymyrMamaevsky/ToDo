@@ -1,6 +1,6 @@
 import Todo from './Todo';
 
-function TodoList() {
+function TodoList({ todos }) {
 	return (
 		<>
 			<Todo />
