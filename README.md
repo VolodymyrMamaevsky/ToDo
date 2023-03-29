@@ -1,3 +1,3 @@
 ## ToDo (react app)
 
-#### Used for list of daily tasks.
+#### The application used for the list of daily tasks.
