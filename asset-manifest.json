@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VolodymyrMamaevsky.github.io/ToDo/static/css/main.5f5cdd7f.css",
+    "main.js": "/VolodymyrMamaevsky.github.io/ToDo/static/js/main.d97d0f68.js",
+    "index.html": "/VolodymyrMamaevsky.github.io/ToDo/index.html",
+    "main.5f5cdd7f.css.map": "/VolodymyrMamaevsky.github.io/ToDo/static/css/main.5f5cdd7f.css.map",
+    "main.d97d0f68.js.map": "/VolodymyrMamaevsky.github.io/ToDo/static/js/main.d97d0f68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5cdd7f.css",
+    "static/js/main.d97d0f68.js"
+  ]
+}
